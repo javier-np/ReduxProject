@@ -1,4 +1,3 @@
-//const { lastIndexOf } = require("lodash");
 import * as bugActions from '../actions/bugActionsTypes'
 let lastIndexOf = 0
 
